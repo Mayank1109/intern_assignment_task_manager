@@ -1,0 +1,24 @@
+.flex_it {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+
+.line {
+  padding-bottom: 0.5rem;
+  border-bottom: 3px solid rgb(210, 210, 210);
+}
+
+.line2 {
+  padding-top: 0.5rem;
+}
+.align_it {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  font-size: 0.8rem;
+}
+
+.space_it {
+  margin-top: 0.5rem;
+}
